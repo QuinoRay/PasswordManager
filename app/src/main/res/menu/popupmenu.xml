@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/menugroup1" >
+        <item
+            android:id="@+id/btnCopyOne"
+            android:title="@string/btnCopy"/>
+        <item
+            android:id="@+id/btnChange"
+            android:title="@string/btnChange"/>
+        <item
+            android:id="@+id/btnDelete"
+            android:title="@string/btnDelete"/>
+    </group>
+</menu>

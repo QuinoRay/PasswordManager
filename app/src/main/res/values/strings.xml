@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="app_name_one">Генератор паролей</string>
+    <!--mainActivity-->
+    <string name="btnGenPass">Сгенерировать пароль</string>
+    <string name="btnStoragePass">Хранилище паролей</string>
+    <string name="btnReference">Справка</string>
+    <!--genPassword-->
+    <string name="textHint">Выберете необходимые параметры</string>
+    <string name="cbRus">Русский</string>
+    <string name="cbEng">Английский</string>
+    <string name="cbNumber">Цифры</string>
+    <string name="cbUp">Верхний регистр</string>
+    <string name="cbLower">Нижний регистр</string>
+    <string name="textLength">Длинна пароля</string>
+    <string name="textViewLength"></string>
+    <string name="twPass">Ваш пароль:</string>
+    <string name="textViewPass"></string>
+    <string name="btnGenerate">Сгенерировать</string>
+    <!--menu-->
+    <string name="btnChange">Изменить</string>
+    <string name="btnDelete">Удалить</string>
+    <!--menuGenPassListView-->
+    <string name="btnCopy">Скопировать</string>
+    <string name="btnAddToDataBase">Добавить</string>
+    <!--alertDialog-->
+    <string name="btnCancel">Закрыть</string>
+    <string name="btnSave">Сохранить</string>
+</resources>
